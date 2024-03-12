@@ -3,6 +3,6 @@
 from test import mytest
 from test1 import mytest1
 
-mytest(
+mytest()
 mytest1()
 print("ALL IS OKEY")
